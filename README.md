@@ -30,4 +30,3 @@ This repository serves as a collection of my certifications and learning achieve
 
 
 
-**GitHub:** [Arthi R](https://github.com/arthi0245)
